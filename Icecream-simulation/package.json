@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "mathjs": "^11.8.1"
-  },
-  "devDependencies": {
-    "tailwindcss": "^3.3.2"
-  }
-}
